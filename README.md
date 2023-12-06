@@ -10,3 +10,22 @@ The problem for the company was that they were in a hybrid mode of working i.e s
   2.Working Preferences, either work from home or coming to work
   
   3.Knowing how many people are taking sick leaves.
+
+
+
+  
+Certainly! Here are the full forms for the abbreviations in the context of presence insights:
+
+WFH: Work From Home
+SL: Sick Leave
+HML: Half-day Leave
+BL: Business Leave
+BRL: Bereavement Leave
+FFL: Family and Medical Leave
+LWP: Leave Without Pay
+HLWP: Half-day Leave Without Pay
+HPL: Hospitalization Leave
+HSL: Hospitalization Sick Leave
+ML: Maternity Leave
+PL: Paternity Leave
+WO: Work Onsite
